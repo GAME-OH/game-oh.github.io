@@ -1,0 +1,9 @@
+h1{
+color: var(--pico-color-violet-700);
+}
+
+.body-padded
+{
+    width: 80%;
+    margin: 0 auto;
+}
